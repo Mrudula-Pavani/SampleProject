@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-15T11:49:52 IST" name="Default suite" finished-at="2021-12-15T11:49:52 IST" duration-ms="45">
+  <suite started-at="2021-12-15T15:02:54 IST" name="Default suite" finished-at="2021-12-15T15:02:55 IST" duration-ms="36">
     <groups>
     </groups>
-    <test started-at="2021-12-15T11:49:52 IST" name="Default test" finished-at="2021-12-15T11:49:52 IST" duration-ms="45">
-      <class name="com.crm.sample.SampleDemoRegTest">
-        <test-method signature="sampleDemoRegTest()[pri:0, instance:com.crm.sample.SampleDemoRegTest@378542de]" started-at="2021-12-15T11:49:52 IST" name="sampleDemoRegTest" finished-at="2021-12-15T11:49:52 IST" duration-ms="8" status="PASS">
+    <test started-at="2021-12-15T15:02:54 IST" name="Default test" finished-at="2021-12-15T15:02:55 IST" duration-ms="36">
+      <class name="com.crm.sample.DemoTest">
+        <test-method signature="demo()[pri:0, instance:com.crm.sample.DemoTest@55536d9e]" started-at="2021-12-15T15:02:55 IST" name="demo" finished-at="2021-12-15T15:02:55 IST" duration-ms="7" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sampleDemoRegTest -->
-      </class> <!-- com.crm.sample.SampleDemoRegTest -->
+        </test-method> <!-- demo -->
+      </class> <!-- com.crm.sample.DemoTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
