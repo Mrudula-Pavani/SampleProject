@@ -8,6 +8,8 @@ public class SampleDemoTest {
 		System.out.println("Step-2,Sample Demo Test Running-Smoke");
 		System.out.println("Step-1,Sample Demo Test Running-Smoke");
 		System.out.println("HEllo Sai");
+		System.out.println("HEllo Sai");
+
 	}
 
 }
